@@ -1,0 +1,7 @@
+class_name(card/license): LICENSE
+issued_state: ARIZONA
+last_name: SAMPLE
+first_name: JELANI
+address: 12MSIRT
+expriation_date: 02/01/2018
+issued_date: 01/10/2013

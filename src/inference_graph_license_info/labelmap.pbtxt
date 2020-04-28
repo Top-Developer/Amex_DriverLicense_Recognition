@@ -1,0 +1,99 @@
+item {
+  id: 1
+  name: 'address'
+}
+
+item {
+  id: 2
+  name: 'expiration_date'
+}
+
+item {
+  id: 3
+  name: 'last_name'
+}
+
+item {
+  id: 4
+  name: 'first_name'
+}
+
+item {
+  id: 5
+  name: 'issued_date'
+}
+
+item {
+  id: 6
+  name: 'state_iowa'
+}
+
+item {
+  id: 7
+  name: 'state_arizona'
+}
+
+item {
+  id: 8
+  name: 'state_california'
+}
+
+item {
+  id: 9
+  name: 'state_kentucky'
+}
+
+item {
+  id: 10
+  name: 'state_maryland'
+}
+
+item {
+  id: 11
+  name: 'state_missouri'
+}
+
+item {
+  id: 12
+  name: 'state_newjersey'
+}
+
+item {
+  id: 13
+  name: 'state_newyork'
+}
+
+item {
+  id: 14
+  name: 'state_northcarolina'
+}
+
+item {
+  id: 15
+  name: 'state_pennsylvania'
+}
+
+item {
+  id: 16
+  name: 'state_southcarolina'
+}
+
+item {
+  id: 17
+  name: 'state_texas'
+}
+
+item {
+  id: 18
+  name: 'state_virginia'
+}
+
+item {
+  id: 19
+  name: 'state_westvirginia'
+}
+
+item {
+  id: 20
+  name: 'state_ohio'
+}

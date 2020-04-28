@@ -1,0 +1,5 @@
+class_name(card/license): CARD
+card_number: 377670000000000
+cvv: 1234
+expiration_date: 09/20
+bank_name: PAOLO SUAREZ

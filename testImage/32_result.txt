@@ -1,0 +1,7 @@
+class_name(card/license): LICENSE
+issued_state: NORTH CAROLINA
+last_name: 
+first_name: 
+address: 
+expriation_date: 
+issued_date: 

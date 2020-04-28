@@ -1,0 +1,7 @@
+class_name(card/license): LICENSE
+issued_state: TEXAS
+last_name: NCE
+first_name: 1DSHE, CC
+address: 2 CARRIAGE RUN CON TX
+expriation_date: 06/21/2024
+issued_date: 03/24/2017

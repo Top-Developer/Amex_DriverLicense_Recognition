@@ -1,0 +1,5 @@
+class_name(card/license): CARD
+card_number: 7767800000000
+cvv: 1234
+expiration_date: 07/20
+bank_name: CARLOS CONCEPCION

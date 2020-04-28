@@ -1,0 +1,5 @@
+class_name(card/license): CARD
+card_number: 374200000000010
+cvv: 6667
+expiration_date: 0909
+bank_name: 

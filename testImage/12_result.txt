@@ -1,0 +1,7 @@
+class_name(card/license): LICENSE
+issued_state: NEW YORK
+last_name: OCUMENT
+first_name: SAPLE, LICEE
+address: AYP ANYTOW
+expriation_date: 
+issued_date: 

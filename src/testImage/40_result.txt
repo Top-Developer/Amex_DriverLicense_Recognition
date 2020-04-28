@@ -1,0 +1,5 @@
+class_name(card/license): CARD
+card_number: 375987654321001
+cvv: 
+expiration_date: 09/09
+bank_name: C F FROST
